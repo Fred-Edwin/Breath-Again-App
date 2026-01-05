@@ -1,12 +1,13 @@
-# breath_again
+# Breath Again
 
-A new Flutter project.
+A Flutter-based mobile application for monitoring and controlling vertical garden systems with AI-powered plant care assistance.
 
-## Getting Started
+## 🔗 Links
 
-This project is a starting point for a Flutter application.
+- **GitHub Repository**: [https://github.com/Fred-Edwin/Breath-Again-App](https://github.com/Fred-Edwin/Breath-Again-App)
+- **Backend Deployment**: See [DEPLOYMENT.md](DEPLOYMENT.md) for Render deployment instructions
 
-A few resources to get you started if this is your first Flutter project:
+## Featuresources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
