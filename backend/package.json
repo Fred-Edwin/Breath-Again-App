@@ -1,7 +1,7 @@
 {
-  "name": "breath-again-api",
+  "name": "breathe-again-api",
   "version": "1.0.0",
-  "description": "Backend API for Breath Again vertical garden monitoring and control",
+  "description": "Backend API for Breathe Again vertical garden monitoring and control",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",

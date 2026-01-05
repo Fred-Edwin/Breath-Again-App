@@ -218,7 +218,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                         ),
                         const SizedBox(height: 16),
                         Text(
-                          "Breath Again v2.4.0",
+                          "Breathe Again v2.4.0",
                           style: GoogleFonts.lato(
                             fontSize: 10,
                             color: Colors.white.withOpacity(0.3),

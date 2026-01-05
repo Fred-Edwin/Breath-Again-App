@@ -1,10 +1,10 @@
-# Breath Again
+# Breathe Again
 
 A Flutter-based mobile application for monitoring and controlling vertical garden systems with AI-powered plant care assistance.
 
 ## 🔗 Links
 
-- **GitHub Repository**: [https://github.com/Fred-Edwin/Breath-Again-App](https://github.com/Fred-Edwin/Breath-Again-App)
+- **GitHub Repository**: [https://github.com/Fred-Edwin/Breathe-Again-App](https://github.com/Fred-Edwin/Breathe-Again-App)
 - **Backend Deployment**: See [DEPLOYMENT.md](DEPLOYMENT.md) for Render deployment instructions
 
 ## Featuresources to get you started if this is your first Flutter project:

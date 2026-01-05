@@ -1,6 +1,6 @@
-# Breath Again API
+# Breathe Again API
 
-Backend API for the Breath Again vertical garden monitoring and control system.
+Backend API for the Breathe Again vertical garden monitoring and control system.
 
 ## Features
 

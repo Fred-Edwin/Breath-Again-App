@@ -177,7 +177,7 @@ class _GardenSetupScreenState extends State<GardenSetupScreen> with SingleTicker
                   child: Text(
                     isSuccess 
                         ? "Your garden is ready to bloom."
-                        : "Ensure your Breath Again hub is plugged in and nearby.",
+                        : "Ensure your Breathe Again hub is plugged in and nearby.",
                     textAlign: TextAlign.center,
                     style: GoogleFonts.lato(
                       fontSize: 14,

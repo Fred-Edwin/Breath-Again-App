@@ -1,10 +1,10 @@
 # Deploying Backend to Render
 
-This guide walks you through deploying the Breath Again backend API to Render.
+This guide walks you through deploying the Breathe Again backend API to Render.
 
 ## Prerequisites
 
-- ✅ GitHub repository pushed: `https://github.com/Fred-Edwin/Breath-Again-App`
+- ✅ GitHub repository pushed: `https://github.com/Fred-Edwin/Breathe-Again-App`
 - ✅ Render account (sign up at [render.com](https://render.com))
 - ✅ Gemini API key (get one at [Google AI Studio](https://makersuite.google.com/app/apikey))
 
@@ -139,4 +139,4 @@ class ApiConfig {
 
 ---
 
-🎉 **Congratulations!** Your Breath Again backend is now live on Render!
+🎉 **Congratulations!** Your Breathe Again backend is now live on Render!

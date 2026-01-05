@@ -127,7 +127,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                         ),
                         const SizedBox(height: 8),
                         Text(
-                          "Breath Again",
+                          "Breathe Again",
                           style: GoogleFonts.playfairDisplay(
                             fontSize: 20,
                             color: Colors.white,

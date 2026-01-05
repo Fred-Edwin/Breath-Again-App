@@ -2,16 +2,16 @@ import 'package:flutter/material.dart';
 import 'screens/welcome_screen.dart';
 
 void main() {
-  runApp(const BreathAgainApp());
+  runApp(const BreatheAgainApp());
 }
 
-class BreathAgainApp extends StatelessWidget {
-  const BreathAgainApp({super.key});
+class BreatheAgainApp extends StatelessWidget {
+  const BreatheAgainApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Breath Again',
+      title: 'Breathe Again',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.green,

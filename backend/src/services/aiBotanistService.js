@@ -6,7 +6,7 @@ class AIBotanistService {
         this.model = this.genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
 
         // System context for the AI botanist
-        this.systemContext = `You are an expert AI botanist assistant for the "Breath Again" vertical garden system. 
+        this.systemContext = `You are an expert AI botanist assistant for the "Breathe Again" vertical garden system. 
 You help users care for their indoor plants with practical, friendly advice.
 
 Key information:

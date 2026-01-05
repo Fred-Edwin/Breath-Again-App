@@ -54,7 +54,7 @@ app.use((err, req, res, next) => {
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-    console.log(`🚀 Breath Again API server running on port ${PORT}`);
+    console.log(`🚀 Breathe Again API server running on port ${PORT}`);
     console.log(`📡 Environment: ${process.env.NODE_ENV || 'development'}`);
     console.log(`🌿 Mock data enabled: ${process.env.MOCK_DATA_ENABLED || 'true'}`);
 });
