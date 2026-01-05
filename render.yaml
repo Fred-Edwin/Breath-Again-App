@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: breath-again-backend
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: MOCK_DATA_ENABLED
+        value: true
+      - key: SENSOR_UPDATE_INTERVAL
+        value: 5000
